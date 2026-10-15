@@ -45,7 +45,7 @@ Made from experience on the operations side of hotels and restaurants, where inv
 
 And it **approved** 10 invoices ($14,241.41), including one 1.5% over its PO (within the limit, flagged as a note), one with a 10% discount line, and one scanned at an angle. One contractor's invoice was approved with a warning that their insurance expires in 12 days.
 
-📊 **[Download the sample output workbook](docs/sample-output.xlsx)**: Summary, Approved, Exceptions, Insurance and Audit Log tabs.
+📊 **Sample output:** [see every tab on this site](docs/sample-output.md) (Summary, Approved, Exceptions, Insurance, Audit Log) or [download the Excel workbook](https://github.com/NormStormm/paper-chaser/raw/main/docs/sample-output.xlsx).
 
 ## How it works
 
