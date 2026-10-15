@@ -1,0 +1,12 @@
+vendor_id,vendor_name,address,coi_required
+V01,Kapena Linen Service,"88 Laundry Ln, Kapolei, HI 96707",no
+V02,Ewa Plains Produce Co.,"12 Farm Rd, Ewa Beach, HI 96706",no
+V03,Koolau Coffee Roasters,"450 Ridge St, Kaneohe, HI 96744",no
+V04,Pueo Pest Control LLC,"7 Owl Way, Pearl City, HI 96782",yes
+V05,Mauka Air & Refrigeration,"301 Upland Ave, Mililani, HI 96789",yes
+V06,Leeward Line Electric,"55 Current Ct, Waipahu, HI 96797",yes
+V07,Lanikai Pool Services,"19 Lagoon Dr, Kailua, HI 96734",yes
+V08,Kalo Paper & Janitorial Supply,"900 Supply Blvd, Honolulu, HI 96819",no
+V09,Makai Fish Market Wholesale,"2 Pier Rd, Honolulu, HI 96817",no
+V10,Hale Print Works,"64 Press St, Honolulu, HI 96813",no
+V11,Nalu Landscaping,"33 Green Way, Waimanalo, HI 96795",yes

@@ -1,0 +1,396 @@
+{
+ "as_of": "2026-10-14",
+ "documents": [
+  {
+   "file": "Invoice_KLS-10233.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Kapena Linen Service",
+   "invoice_number": "KLS-10233",
+   "invoice_date": "2026-10-01",
+   "po_number": "PO-24101",
+   "subtotal": 1615.0,
+   "discount": 0.0,
+   "tax": 76.1,
+   "total": 1691.1,
+   "line_count": 3,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "EPP-5571.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Ewa Plains Produce Co.",
+   "invoice_number": "EPP-5571",
+   "invoice_date": "2026-10-03",
+   "po_number": "PO-24102",
+   "subtotal": 1140.75,
+   "discount": 0.0,
+   "tax": 53.75,
+   "total": 1194.5,
+   "line_count": 4,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "koolau_inv_0918.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Koolau Coffee Roasters",
+   "invoice_number": "KCR-0918",
+   "invoice_date": "2026-10-02",
+   "po_number": "PO-24103",
+   "subtotal": 1851.0,
+   "discount": 0.0,
+   "tax": 87.22,
+   "total": 1938.22,
+   "line_count": 2,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "PPC-2026-114.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Pueo Pest Control LLC",
+   "invoice_number": "PPC-2026-114",
+   "invoice_date": "2026-10-06",
+   "po_number": "PO-24104",
+   "subtotal": 1830.0,
+   "discount": 0.0,
+   "tax": 86.23,
+   "total": 1916.23,
+   "line_count": 2,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "KPJ-77812.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Kalo Paper & Janitorial Supply",
+   "invoice_number": "KPJ-77812",
+   "invoice_date": "2026-10-05",
+   "po_number": "PO-24105",
+   "subtotal": 1827.4,
+   "discount": 0.0,
+   "tax": 86.11,
+   "total": 1913.51,
+   "line_count": 3,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": [
+    "WITHIN_TOLERANCE"
+   ]
+  },
+  {
+   "file": "MFW-3301.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Makai Fish Market Wholesale",
+   "invoice_number": "MFW-3301",
+   "invoice_date": "2026-10-07",
+   "po_number": "PO-24106",
+   "subtotal": 1854.25,
+   "discount": 0.0,
+   "tax": 87.37,
+   "total": 1941.62,
+   "line_count": 3,
+   "decision": "HOLD",
+   "reasons": [
+    "AMOUNT_OVER_PO"
+   ],
+   "notes": []
+  },
+  {
+   "file": "HPW-1188.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Hale Print Works",
+   "invoice_number": "HPW-1188",
+   "invoice_date": "2026-10-04",
+   "po_number": "",
+   "subtotal": 1030.0,
+   "discount": 0.0,
+   "tax": 48.53,
+   "total": 1078.53,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "MISSING_PO"
+   ],
+   "notes": []
+  },
+  {
+   "file": "EPP-5590.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Ewa Plains Produce Co.",
+   "invoice_number": "EPP-5590",
+   "invoice_date": "2026-10-08",
+   "po_number": "PO-29999",
+   "subtotal": 581.25,
+   "discount": 0.0,
+   "tax": 27.39,
+   "total": 608.64,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "PO_NOT_FOUND"
+   ],
+   "notes": []
+  },
+  {
+   "file": "FW_ Invoice KLS-10233 (resend).pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Kapena Linen Service",
+   "invoice_number": "KLS-10233",
+   "invoice_date": "2026-10-01",
+   "po_number": "PO-24101",
+   "subtotal": 1615.0,
+   "discount": 0.0,
+   "tax": 76.1,
+   "total": 1691.1,
+   "line_count": 3,
+   "decision": "HOLD",
+   "reasons": [
+    "DUPLICATE"
+   ],
+   "notes": []
+  },
+  {
+   "file": "KCR-0931.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Koolau Coffee Roasters",
+   "invoice_number": "KCR-0931",
+   "invoice_date": "2026-10-09",
+   "po_number": "PO-24107",
+   "subtotal": 1604.0,
+   "discount": 0.0,
+   "tax": 75.58,
+   "total": 1729.58,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "MATH_ERROR",
+    "AMOUNT_OVER_PO"
+   ],
+   "notes": []
+  },
+  {
+   "file": "MAR-4410.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Mauka Air & Refrigeration",
+   "invoice_number": "MAR-4410",
+   "invoice_date": "2026-10-06",
+   "po_number": "PO-24108",
+   "subtotal": 3405.0,
+   "discount": 0.0,
+   "tax": 160.44,
+   "total": 3565.44,
+   "line_count": 3,
+   "decision": "HOLD",
+   "reasons": [
+    "COI_EXPIRED"
+   ],
+   "notes": []
+  },
+  {
+   "file": "LLE-2207.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Leeward Line Electric",
+   "invoice_number": "LLE-2207",
+   "invoice_date": "2026-10-08",
+   "po_number": "PO-24109",
+   "subtotal": 1748.0,
+   "discount": 0.0,
+   "tax": 82.37,
+   "total": 1830.37,
+   "line_count": 2,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": [
+    "COI_EXPIRING"
+   ]
+  },
+  {
+   "file": "LPS-0612.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Lanikai Pool Services",
+   "invoice_number": "LPS-0612",
+   "invoice_date": "2026-10-01",
+   "po_number": "PO-24110",
+   "subtotal": 1445.0,
+   "discount": 0.0,
+   "tax": 68.09,
+   "total": 1513.09,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "COI_COVERAGE_LOW"
+   ],
+   "notes": []
+  },
+  {
+   "file": "NL-3005.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Nalu Landscaping",
+   "invoice_number": "NL-3005",
+   "invoice_date": "2026-10-10",
+   "po_number": "PO-24111",
+   "subtotal": 3620.0,
+   "discount": 0.0,
+   "tax": 170.57,
+   "total": 3790.57,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "COI_MISSING"
+   ],
+   "notes": []
+  },
+  {
+   "file": "scan_0042.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Makai Fish Market Wholesale",
+   "invoice_number": "MFW-3315",
+   "invoice_date": "2026-10-11",
+   "po_number": "PO-24112",
+   "subtotal": 872.5,
+   "discount": 0.0,
+   "tax": 41.11,
+   "total": 913.61,
+   "line_count": 2,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "KPJ-77830.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Kalo Paper & Janitorial Supply",
+   "invoice_number": "KPJ-77830",
+   "invoice_date": "2026-10-09",
+   "po_number": "PO-24113",
+   "subtotal": 459.4,
+   "discount": 0.0,
+   "tax": 21.65,
+   "total": 481.05,
+   "line_count": 2,
+   "decision": "HOLD",
+   "reasons": [
+    "PO_VENDOR_MISMATCH"
+   ],
+   "notes": []
+  },
+  {
+   "file": "HPW-1192.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Hale Print Works",
+   "invoice_number": "HPW-1192",
+   "invoice_date": "2026-10-10",
+   "po_number": "PO-24114",
+   "subtotal": 1067.0,
+   "discount": 106.7,
+   "tax": 45.25,
+   "total": 1005.55,
+   "line_count": 3,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "Ewa Plains invoice.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Ewa Plains Produce Co.",
+   "invoice_number": "EPP-5594",
+   "invoice_date": "2026-10-03",
+   "po_number": "PO-24115",
+   "subtotal": 1140.75,
+   "discount": 0.0,
+   "tax": 53.75,
+   "total": 1194.5,
+   "line_count": 4,
+   "decision": "HOLD",
+   "reasons": [
+    "POSSIBLE_DUPLICATE"
+   ],
+   "notes": []
+  },
+  {
+   "file": "KCR-0940.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Koolau Coffee Roasters",
+   "invoice_number": "KCR-0940",
+   "invoice_date": "2026-10-12",
+   "po_number": "PO-24116",
+   "subtotal": 1215.6,
+   "discount": 0.0,
+   "tax": 57.28,
+   "total": 1272.88,
+   "line_count": 2,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "PPC-2026-121.pdf",
+   "doc_type": "INVOICE",
+   "vendor": "Pueo Pest Control LLC",
+   "invoice_number": "PPC-2026-121",
+   "invoice_date": "2026-10-12",
+   "po_number": "PO-24117",
+   "subtotal": 540.0,
+   "discount": 0.0,
+   "tax": 25.44,
+   "total": 565.44,
+   "line_count": 1,
+   "decision": "APPROVED",
+   "reasons": [],
+   "notes": []
+  },
+  {
+   "file": "COI_PueoPest_2026.pdf",
+   "doc_type": "COI",
+   "vendor": "Pueo Pest Control LLC",
+   "insurer": "Fictional Mutual Insurance Co.",
+   "policy_number": "GL-PPC-882341",
+   "expires": "2027-03-31",
+   "each_occurrence": 1000000
+  },
+  {
+   "file": "scan_0051.pdf",
+   "doc_type": "COI",
+   "vendor": "Mauka Air & Refrigeration",
+   "insurer": "Example Casualty Group",
+   "policy_number": "CGL-55190-MA",
+   "expires": "2026-09-30",
+   "each_occurrence": 2000000
+  },
+  {
+   "file": "LeewardLine_COI.pdf",
+   "doc_type": "COI",
+   "vendor": "Leeward Line Electric",
+   "insurer": "Sample Indemnity Ltd.",
+   "policy_number": "LL-10992-E",
+   "expires": "2026-10-26",
+   "each_occurrence": 1000000
+  },
+  {
+   "file": "Lanikai Pool - certificate of insurance.pdf",
+   "doc_type": "COI",
+   "vendor": "Lanikai Pool Services",
+   "insurer": "Fictional Mutual Insurance Co.",
+   "policy_number": "GL-LPS-30117",
+   "expires": "2027-05-01",
+   "each_occurrence": 500000
+  },
+  {
+   "file": "Kapena_statement_Sept.pdf",
+   "doc_type": "OTHER",
+   "vendor": "Kapena Linen Service",
+   "decision": "HOLD",
+   "reasons": [
+    "NOT_AN_INVOICE"
+   ],
+   "notes": []
+  }
+ ]
+}
