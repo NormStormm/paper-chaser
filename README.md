@@ -15,6 +15,20 @@ Made from experience on the operations side of hotels and restaurants, where inv
 | **Explains every decision** | Exceptions say why, e.g. *"Amount $1,941.62 vs PO $1,790.00 (+8.5%, limit 2%)"*. An audit log records every document. |
 | **Tested** | 25 test documents with an answer key, a scoring script, and 29 rule tests. |
 
+### Exceptions: every hold explained in plain English
+![Exceptions tab: 11 held documents, each with the reason, e.g. amount 8.5% over PO, duplicate, expired insurance](docs/screenshots/exceptions.png)
+
+### Approved: ready to enter, with notes worth reading in yellow
+![Approved tab: 10 invoices, two highlighted with notes (1.5% over PO within limit; insurance expiring in 12 days)](docs/screenshots/approved.png)
+
+### Insurance: each contractor's certificate at a glance
+![Insurance tab: one certificate OK (green), one expiring soon (yellow), one expired and one with coverage too low (red)](docs/screenshots/insurance.png)
+
+### A crooked, grainy "scan" it read correctly
+<img src="docs/screenshots/scanned-invoice.png" alt="Scanned Makai Fish Market invoice MFW-3315, total $913.61, read correctly and approved" width="460">
+
+*Read correctly down to the tax line and approved: see the `scan_0042.pdf` row on the Approved tab above.*
+
 ## Results on the test set
 
 | | Score |
