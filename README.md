@@ -2,7 +2,7 @@
 
 **Drop vendor PDFs in a folder. Claude reads each one (invoice, certificate of insurance, or something else) and copies its details into a fixed form. Then plain code does the accounting checks: does it match the purchase order, is it a duplicate, does it add up, is the contractor's insurance current? Clean invoices land on an *Approved* tab, problems on an *Exceptions* tab with the reason in plain English. Built with Python, the Claude API and Excel.**
 
-Made from experience on the operations side of hotels and restaurants, where invoices arrive as email attachments and scans, get typed into a spreadsheet by hand, and are checked against POs and insurance certificates by memory, if at all.
+Built around a back-office problem common in hotels and restaurants, where invoices arrive as email attachments and scans, get typed into a spreadsheet by hand, and are checked against POs and insurance certificates by memory, if at all.
 
 | | |
 |---|---|
